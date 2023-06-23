@@ -164,6 +164,8 @@
                             <constraint firstItem="Sd6-c3-tBK" firstAttribute="centerX" secondItem="sTD-Ba-1rY" secondAttribute="centerX" id="vQk-eO-fSW"/>
                         </constraints>
                     </view>
+
+//a1,a2,a3,b1... stants for cells in our tic tac toe game 
                     <connections>
                         <outlet property="a1" destination="RuO-Yq-q0F" id="mD6-EF-mOU"/>
                         <outlet property="a2" destination="pOA-cj-7qf" id="IYf-l6-jEl"/>
