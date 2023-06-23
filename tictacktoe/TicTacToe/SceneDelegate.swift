@@ -1,9 +1,7 @@
 //
 //  SceneDelegate.swift
 //  TicTacToe
-//
-//  Created by CallumHill on 30/7/21.
-//
+
 
 import UIKit
 

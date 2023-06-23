@@ -1,11 +1,9 @@
 //
 //  AppDelegate.swift
 //  TicTacToe
-//
-//  Created by CallumHill on 30/7/21.
-//
 
-//import UIKit
+
+import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
